@@ -9,3 +9,5 @@ isFeatured: true
 # This is a title
 
 This is some regular text
+
+![Image](getting-started-nextjs.png)

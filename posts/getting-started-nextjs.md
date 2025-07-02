@@ -11,3 +11,8 @@ isFeatured: true
 This is some regular text
 
 ![Image](getting-started-nextjs.png)
+
+```js
+console.log('Hello world!')
+
+```
